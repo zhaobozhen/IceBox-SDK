@@ -11,8 +11,8 @@ import android.os.Handler;
 import android.os.Looper;
 import android.os.Process;
 import android.os.ResultReceiver;
-import android.support.annotation.RequiresPermission;
-import android.support.annotation.WorkerThread;
+import androidx.annotation.RequiresPermission;
+import androidx.annotation.WorkerThread;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 
